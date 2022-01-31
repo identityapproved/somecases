@@ -257,3 +257,5 @@ const someBooleanValue2 = +someVariable == NaN; // can't use this(console.log(Na
 
 // console.log(NaN === NaN);
 // console.log(NaN == NaN);
+
+//
