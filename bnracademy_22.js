@@ -1,4 +1,4 @@
-const func = (x) => {
+/* const func = (x) => {
   switch (isNaN(x) || x) {
     case null: {
       console.log(1);
@@ -23,3 +23,4 @@ const func = (x) => {
 };
 
 func();
+ */
